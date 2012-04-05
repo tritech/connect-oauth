@@ -2,7 +2,7 @@
   "author": "James Emerton <james@tri-tech.com>",
   "name": "connect-oauth",
   "description": "Connect framework middleware implementing an OAuth 1.0a provider",
-  "version": "0.4.2",
+  "version": "0.4.3",
   "repository": {
     "url": ""
   },
