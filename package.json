@@ -2,16 +2,16 @@
   "author": "James Emerton <james@tri-tech.com>",
   "name": "connect-oauth",
   "description": "Connect framework middleware implementing an OAuth 1.0a provider",
-  "version": "0.4.4",
+  "version": "0.4.5",
   "repository": {
-    "url": ""
+    "url": "https://github.com/tritech/connect-oauth"
   },
   "main": "./lib/oauth",
   "engines": {
     "node": "~0.8.0"
   },
   "dependencies": {
-    "connect": "~1"
+    "connect": "~2"
   },
   "devDependencies": {}
 }
